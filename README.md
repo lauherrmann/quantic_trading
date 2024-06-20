@@ -1,0 +1,1 @@
+# quantic_trading
