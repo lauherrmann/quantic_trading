@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400&family=Raleway:wght@300;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary_purple: #8264FF;
+  --secondary_purple: #6d53d3;
+  --tertiary_purple: #0A0A23;
+  --primary_grey: #dcdada;
+  --secondary_grey:#3b3b3b;
+  --white: #fff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Outfit', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+    background-color: #f3f3f3; 
+    background-size: cover;
+  }

@@ -1,1 +1,1 @@
-# quantic_trading
+Esse site está sendo criado em parceria com a empresa Quantic Trading.

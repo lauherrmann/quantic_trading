@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gobweb-dev-111935-authRole",
+      "UnauthRoleArn": "arn:aws:iam::848277570754:role/amplify-gobweb-dev-111935-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::848277570754:role/amplify-gobweb-dev-111935-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gobweb-dev-111935-deployment",
+      "UnauthRoleName": "amplify-gobweb-dev-111935-unauthRole",
+      "StackName": "amplify-gobweb-dev-111935",
+      "StackId": "arn:aws:cloudformation:us-east-1:848277570754:stack/amplify-gobweb-dev-111935/f0d8dbd0-bc55-11ee-8ca2-0e6f4758a3b5",
+      "AmplifyAppId": "drhzrrnrn5t3j"
+    }
+  }
+}
